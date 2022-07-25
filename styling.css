@@ -1,5 +1,6 @@
 /* style body with background image and set to cover, and font-family */
 body{
+    font-family: Arvo,serif;
     background: url(https://freenaturestock.com/wp-content/uploads/freenaturestock-101.jpeg) no-repeat center center;
     background-attachment: fixed;
     background-size: cover;
