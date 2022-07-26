@@ -21,9 +21,20 @@ body{
 .nav li{
     color: #fff;
     font-size: 17px;
+    margin-right: 35px;
+    padding: 10px 0;
 }
 
 /* style jumbotron */
+.jumbotron{
+    background-color: transparent;
+    color: rgb(14, 1, 1);
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    letter-spacing: 2.5px;
+
+}
 
 /* style icon */
 
