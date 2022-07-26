@@ -8,8 +8,20 @@ body{
 }
 
 /* style brand */
+.logo{
+    height: 30px;
+}
 
 /* style  navigation bar */
+
+.navbar-inverse{
+    background: rgba(0, 0, 0, 0.5);
+
+}
+.nav li{
+    color: #fff;
+    font-size: 17px;
+}
 
 /* style jumbotron */
 
